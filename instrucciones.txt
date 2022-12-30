@@ -1,0 +1,5 @@
+El proceso es automatico, lo primero seria crear un virtual environment con python3 -m venv venv (o py si es en windows).
+Luego, activar el entorno virtual.
+Con el entorno virtual activado, instalar las dependencias de python necesarias con el comando "pip install -r requirements.txt"
+Ya con las dependencias activadas, correr el programa con "python3 scraper.py" (o py scraper.py en windows).
+El programa le solicitara al usuario que ingrese un numero, dependiendo de la opcion ingresada, se realizara el web scraping mostrando los datos obtenidos en esa consulta, mostrara los datos guardados o simplemente terminara el programa
